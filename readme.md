@@ -44,8 +44,8 @@ In a local Python environment, install them using:
 
 | Model | Test Accuracy |
 |---|---|
-| Decision Tree | [Add actual result] |
-| KNN | [Add actual result] |
+| Decision Tree | 0.9333333333333333 |
+| KNN | 0.9333333333333333 |
 
 Both models were evaluated using a held-out test set and
 confusion matrices.
